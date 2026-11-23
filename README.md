@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, ich bin Florian 👋
 
-<!--
-**Florian-Ramaj/Florian-Ramaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Informatikstudent an der LMU München ([Semester / Studiengang eintragen]).
+Ich baue gern Dinge, die ein echtes Problem lösen, von Spiellogik in Java bis zu KI-Assistenten.
 
-Here are some ideas to get you started:
+## Projekte
+- **[Polier.ai](https://github.com/Florian-Ramaj/Polier.ai)**: Sprachassistent für Bauleiter (Hackathon, TUM.ai), Python, FastAPI, Claude
+- **[love-letter](https://github.com/Florian-Ramaj/love-letter)**: Kartenspiel über einen Chat-Server, Java, JavaFX, JUnit
+- **[pdf-datumstempel](https://github.com/Florian-Ramaj/pdf-datumstempel)**: kleines Drag-and-drop-Tool für PDFs, Java, PDFBox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technik
+Java · Python · Maven · Git · [weitere ergänzen]
+
+## Kontakt
+[E-Mail oder LinkedIn]

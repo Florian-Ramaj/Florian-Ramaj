@@ -9,7 +9,7 @@ Hier Sammele ich Projekte sowohl aus der Uni als auch private.
 - **[pdf-datumstempel](https://github.com/Florian-Ramaj/pdf-datumstempel)**: kleines Drag-and-drop-Tool für PDFs, Java, PDFBox
 
 ## Technik
-Java · HTML · CSS · Python · Maven · Git · Figma 
+Java · HTML · CSS · Python · Haskell · Maven · Git · Figma 
 
 ## Kontakt
 florianramaj8@gmail.com

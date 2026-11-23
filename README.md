@@ -1,7 +1,7 @@
 # Hi, ich bin Florian 👋
 
-Informatikstudent an der LMU München ([Semester / Studiengang eintragen]).
-Ich baue gern Dinge, die ein echtes Problem lösen, von Spiellogik in Java bis zu KI-Assistenten.
+Informatikstudent an der LMU München Medieninformatik im 3ten Semester.
+Hier Sammele ich Projekte sowohl aus der Uni als auch private.
 
 ## Projekte
 - **[Polier.ai](https://github.com/Florian-Ramaj/Polier.ai)**: Sprachassistent für Bauleiter (Hackathon, TUM.ai), Python, FastAPI, Claude

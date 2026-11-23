@@ -12,4 +12,4 @@ Ich baue gern Dinge, die ein echtes Problem lösen, von Spiellogik in Java bis z
 Java · HTML · CSS · Python · Maven · Git · Figma 
 
 ## Kontakt
-[E-Mail oder LinkedIn]
+florianramaj8@gmail.com

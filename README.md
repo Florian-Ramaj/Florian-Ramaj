@@ -9,7 +9,7 @@ Ich baue gern Dinge, die ein echtes Problem lösen, von Spiellogik in Java bis z
 - **[pdf-datumstempel](https://github.com/Florian-Ramaj/pdf-datumstempel)**: kleines Drag-and-drop-Tool für PDFs, Java, PDFBox
 
 ## Technik
-Java · Python · Maven · Git · HTML · CSS
+Java · HTML · CSS · Python · Maven · Git 
 
 ## Kontakt
 [E-Mail oder LinkedIn]
